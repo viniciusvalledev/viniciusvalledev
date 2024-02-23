@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Vinicius 👋🏻
 
-- 🔭 Hoje ainda estou cursando ciencias da computação
-- 🌱 Estou aprendendo desenv. web e javaScript
-- 📩 Fale comigo pelo email: contatoviniciusvalledev@gmail.com
-- 😄 Pronouns: ele/dele
 
 <picture>
   <source
@@ -16,3 +12,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true" />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact)
+
+
+          
