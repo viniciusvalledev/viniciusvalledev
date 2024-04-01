@@ -3,18 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-valle-99563b27a/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinxvp/)
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=swift"
-    media="(prefers-color-scheme: highcontrast)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true" />
-</picture>
+![Vinicius Dev stats](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=merko)
 
 ### SOFT SKILLS
 
