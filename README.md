@@ -3,8 +3,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-valle-99563b27a/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinxvp/)
 
-![Vinicius Dev stats](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=graywhite)
-
 ### SOFT SKILLS
 
 <div style ="display: inline_block"><br/>
