@@ -1,4 +1,4 @@
-### Hello! My nane is Vinicius, you are very welcome 👋🏻
+### Hello! My name is Vinicius, you are very welcome 👋🏻
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvalledev/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinxvp/)
