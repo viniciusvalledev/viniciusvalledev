@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vinicius and you are welcome</h2>
+<h2 align="left">Hi 👋! My name is Vinicius and welcome to my profile</h2>
 
 ###
 
