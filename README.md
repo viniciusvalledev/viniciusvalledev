@@ -35,14 +35,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h4 align="center">trainee at Prefeitura Municipal de Saquarema</h4>
 
 ###
