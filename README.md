@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/main/banner.png)
+
 # 👨‍💻 Vinicius Valle
 
 ### Desenvolvedor Back-End Júnior
@@ -9,7 +11,7 @@ Busco sempre evoluir minhas habilidades e contribuir com projetos que gerem impa
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Java, Python (studying kotlin and go)
+- **Linguagens:** Java, Python  
 - **Frameworks:** Spring Boot  
 - **Banco de Dados:** MySQL, PostgreSQL, Firebase  
 
