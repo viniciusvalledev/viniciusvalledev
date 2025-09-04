@@ -10,7 +10,7 @@ I am always looking to improve my skills and contribute to impactful projects.
 ---
 
 ## 🚀 Technologies & Tools
-- **Languages:** Java, Python  
+- **Languages:** Java, Python (studying kotlin and go)
 - **Frameworks:** Spring Boot  
 - **Databases:** MySQL, PostgreSQL, Firebase  
 
