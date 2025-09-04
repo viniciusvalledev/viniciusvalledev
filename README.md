@@ -1,46 +1,41 @@
-![Banner](https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/main/banner.png)
 
-# 👋 Olá, eu sou o Vinicius Valle!
+# 👨‍💻 Vinicius Valle
 
-💻 **Desenvolvedor Back-End Júnior** apaixonado por tecnologia, código limpo e café ☕.  
-🚀 Trabalho principalmente com **Java**, **Spring Boot**, **MySQL**, **PostgreSQL**, **Python** e **Firebase**.  
-✨ Sempre buscando aprender algo novo e contribuir com projetos incríveis!  
+### Junior Back-End Developer
 
----
-
-## ⚡ Tecnologias que uso no dia a dia
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-</div>
+I am a junior back-end developer passionate about technology and building efficient solutions.  
+I currently work with **Java**, **Spring Boot**, **MySQL**, **PostgreSQL**, **Python**, and **Firebase**.  
+I am always looking to improve my skills and contribute to impactful projects.
 
 ---
 
-## 📊 Minhas estatísticas
+## 🚀 Technologies & Tools
+- **Languages:** Java, Python  
+- **Frameworks:** Spring Boot  
+- **Databases:** MySQL, PostgreSQL, Firebase  
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
   <a href="https://github.com/viniciusvalledev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
 ---
 
-## 🌱 Sobre mim
-- 🎯 Sempre buscando melhorar minhas habilidades como back-end developer  
-- ☕ Café é meu combustível favorito  
-- 🎮 Gosto de games e tecnologia  
-- 📚 Curto aprender coisas novas, principalmente sobre arquitetura de software  
+## 📫 Contact
 
----
-
-## 📬 Onde me encontrar
 - 📧 [Email](mailto:contatoviniciusvalledev@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/viniciusvalledev/)  
 - 📷 [Instagram](https://instagram.com/vinxvp)  
+
+---
+
+## 🌟 Goal
+Grow as a back-end developer, contribute to innovative projects, and collaborate with teams that strive for technical excellence and best development practices.
 
 ---
