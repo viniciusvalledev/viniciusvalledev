@@ -9,7 +9,7 @@ Busco sempre evoluir minhas habilidades e contribuir com projetos que gerem impa
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Java, Python  
+- **Linguagens:** Java, Python (studying kotlin and go)
 - **Frameworks:** Spring Boot  
 - **Banco de Dados:** MySQL, PostgreSQL, Firebase  
 
