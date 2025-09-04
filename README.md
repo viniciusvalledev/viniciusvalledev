@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/viniciusvalledev/viniciusvalledev/output/snake.svg" alt="Snake animation" />
-
-###
