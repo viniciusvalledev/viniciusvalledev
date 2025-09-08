@@ -1,7 +1,7 @@
 
 # 👨‍💻 Vinicius Valle
 
-### Junior Back-End Developer
+### Back-End Developer
 
 I am a junior back-end developer passionate about technology and building efficient solutions.  
 I currently work with **Java**, **Spring Boot**, **MySQL**, **PostgreSQL**, **Python**, and **Firebase**.  
