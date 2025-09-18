@@ -18,11 +18,8 @@ I enjoy solving complex problems, designing robust architectures, and continuous
 ---
 
 ## 📊 GitHub Stats
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=viniciusvalledev&theme=github-dark&hide_border=true)
 
 ---
 
