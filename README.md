@@ -18,11 +18,18 @@ I enjoy solving complex problems, designing robust architectures, and continuous
 ---
 
 ## 📊 GitHub Stats
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark&token=PAT_1)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&theme=github_dark&token=PAT_1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark&token=PAT_1" alt="Vinicius's GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=viniciusvalledev&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&theme=github_dark&token=PAT_1" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=viniciusvalledev&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🌱 Currently Learning
