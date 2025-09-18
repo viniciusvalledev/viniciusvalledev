@@ -1,40 +1,41 @@
+# Hi there, I'm Vinicius Valle 👋
 
-# 👨‍💻 Vinicius Valle
+## 🚀 About Me
+I'm a passionate **Backend Developer** focused on building reliable, scalable, and efficient applications.  
+Most of my work is based on **Java** and the **Spring ecosystem**, with solid experience in working with **relational databases** such as **MySQL** and **PostgreSQL**.  
 
-### Back-End Developer
-
-I am a junior back-end developer passionate about technology and building efficient solutions.  
-I currently work with **Java**, **Spring Boot**, **MySQL**, **PostgreSQL**, **Python**, and **Firebase**.  
-I am always looking to improve my skills and contribute to impactful projects.
-
----
-
-## 🚀 Technologies & Tools
-- **Languages:** Java, Python (studying kotlin and go)
-- **Frameworks:** Spring Boot  
-- **Databases:** MySQL, PostgreSQL, Firebase  
+I enjoy solving complex problems, designing robust architectures, and continuously learning new technologies to enhance my development skills.  
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/viniciusvalledev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
-
----
-
-## 📫 Contact
-
-- 📧 [Email](mailto:contatoviniciusvalledev@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/viniciusvalledev/)  
-- 📷 [Instagram](https://instagram.com/vinxvp)  
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL, JavaScript (basics), Python (basics)  
+- **Frameworks & Tools:** Spring Boot, Hibernate, JPA, Maven, Gradle  
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git & GitHub  
+- **Other Tools:** REST APIs, Postman  
 
 ---
 
-## 🌟 Goal
-Grow as a back-end developer, contribute to innovative projects, and collaborate with teams that strive for technical excellence and best development practices.
+## 📊 GitHub Stats
+![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=viniciusvalledev&theme=github-dark&hide_border=true)
 
 ---
+
+## 🌱 Currently Learning
+- Advanced Spring modules  
+- Best practices in RESTful API design  
+- Database optimization and performance tuning  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/viniciusvalledev)  
+- [GitHub](https://github.com/viniciusvalledev)  
+
+---
+⭐️ From [viniciusvalledev](https://github.com/viniciusvalledev)
