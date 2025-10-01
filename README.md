@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m working as Prefeitura Municipal de Saquarema<br>- 📚 I'm currently learning java + spring
+- 🔭 I’m working as Prefeitura Municipal de Saquarema<br>- 📚 I'm currently learning java + spring and golang 
 
 
 ## 🌐 Socials:
