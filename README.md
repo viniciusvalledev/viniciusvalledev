@@ -1,44 +1,27 @@
-# Hi there, I'm Vinicius Valle 👋
+# 💫 About Me:
+- 🔭 I’m working as Prefeitura Municipal de Saquarema<br>- 📚 I'm currently learning java + spring
 
-## 🚀 About Me
-I'm a passionate **Backend Developer** focused on building reliable, scalable, and efficient applications.  
-Most of my work is based on **Java** and the **Spring ecosystem**, with solid experience in working with **relational databases** such as **MySQL** and **PostgreSQL**.  
 
-I enjoy solving complex problems, designing robust architectures, and continuously learning new technologies to enhance my development skills.  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viniciusvalle.dev) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=viniciusvalledev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=viniciusvalledev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack
-- **Languages:** Java, SQL, JavaScript (basics), Python (basics)  
-- **Frameworks & Tools:** Spring Boot, Hibernate, JPA, Maven, Gradle  
-- **Databases:** MySQL, PostgreSQL  
-- **Version Control:** Git & GitHub  
-- **Other Tools:** REST APIs, Postman  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=viniciusvalledev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusvalledev&show_icons=true&theme=github_dark&token=PAT_1" alt="Vinicius's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&layout=compact&theme=github_dark&token=PAT_1" alt="Most Used Languages" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=viniciusvalledev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=viniciusvalledev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-- Advanced Spring modules  
-- Best practices in RESTful API design  
-- Database optimization and performance tuning  
-
----
-
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/viniciusvalledev)  
-- [GitHub](https://github.com/viniciusvalledev)  
-
----
-⭐️ From [viniciusvalledev](https://github.com/viniciusvalledev)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
