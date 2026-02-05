@@ -57,15 +57,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvalledev&theme=dark&hide_progress=false">
-</div>
-<div align="center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=viniciusvalledev&theme=dark&hide=contribs,prs"
-    </div>
-
-###
