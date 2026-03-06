@@ -2,7 +2,7 @@
 
 **Backend Developer**
 
-I'm a software developer driven by the challenge of building robust and scalable systems. My primary focus is on the **Java/Spring Boot** ecosystem and **Node.js with TypeScript**, where I strive to write clean, efficient, and maintainable code. 
+I'm a software developer driven by the challenge of building robust and scalable systems. My primary focus is on the **Java/Spring Boot and quarkus** ecosystem and **Node.js with TypeScript**, where I strive to write clean, efficient, and maintainable code. 
 
 I have a strong background in database management (PostgreSQL, MySQL, SQL Server) and containerization with Docker. Currently, I'm contributing to technological projects for the **City of Saquarema**, such as the "MEIs de Saqua" portal, where I design and implement backend architectures to solve real-world problems.
 
