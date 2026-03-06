@@ -1,36 +1,14 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Vinicius Valle
 
-###
+**Backend Developer**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/viniciusvalledev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/vinivalledev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="http://instagram.com/vinxvp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+I'm a software developer driven by the challenge of building robust and scalable systems. My primary focus is on the **Java/Spring Boot** ecosystem and **Node.js with TypeScript**, where I strive to write clean, efficient, and maintainable code. 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=viniciusvalledev.viniciusvalledev&"  />
-</div>
+I have a strong background in database management (PostgreSQL, MySQL, SQL Server) and containerization with Docker. Currently, I'm contributing to technological projects for the **City of Saquarema**, such as the "MEIs de Saqua" portal, where I design and implement backend architectures to solve real-world problems.
 
-###
+Beyond my professional projects, I am passionate about continuous learning—currently at a **Master English level (C1/C2)**—and collaborating with the developer community on Discord. I enjoy devising custom solutions for everyday challenges and constantly improving my logic through hands-on practice.
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Vinicius do Valle from Rio de Janeiro<br><br>- 🔭 I’m working as Prefeitura Municipal de Saquarema (PMS)<br>- 📚 I'm currently learning java and go</p>
+---
 
 ###
 
@@ -54,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
 ###
